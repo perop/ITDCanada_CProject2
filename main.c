@@ -10,12 +10,17 @@
 #include "ArrayPointer.h"
 #include "Pointer2.h"
 #include "arrayOfFunctionPointer.h"
+//
+//int main(int argc, const char * argv[]) {
+//    
+////    printArray();
+////    void *pointer;
+////    mainPointer();
+//    
+//    string();
+//    
+//
+//    return 0;
+//}
 
-int main(int argc, const char * argv[]) {
-    
-//    printArray();
-//    void *pointer;
-//    mainPointer();
 
-    return 0;
-}
